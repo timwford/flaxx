@@ -91,7 +91,7 @@ Something about string overrides and whatever other cool shit you find
 
 ### Basics
 
-What a Pydantic model is, why it's necessary, how it's used in FastAPI, and the bare miniumum about how it's generated.
+What a Pydantic model is, why it's necessary, how it's used in FastAPI, and the bare minimum about how it's generated.
 
 ### What's going on
 
